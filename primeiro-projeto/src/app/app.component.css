@@ -1,0 +1,15 @@
+h1{
+  color:rgb(68, 120, 136);
+  font-size: 42pt;
+}
+.flex-container{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  align-content: center;
+}
+
+.flex-item{
+  background-color:rgb(36, 102, 64);
+  font-size:30px;
+}
